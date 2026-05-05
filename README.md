@@ -65,11 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohdasad-dev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="70%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdasad-dev&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=mohdasad-dev&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
