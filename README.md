@@ -69,8 +69,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdasad-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdasad-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdasad-dev&theme=tokyo-night&hide_border=true" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdasad-dev&theme=tokyonight" width="90%" />
 </p>
 
 ---
